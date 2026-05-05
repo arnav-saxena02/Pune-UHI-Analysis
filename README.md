@@ -5,21 +5,15 @@ Urban Heat Island analysis of Pune using NDVI and Land Surface Temperature deriv
 ## Objective
 To analyze the relationship between vegetation cover and land surface temperature using geospatial techniques.
 
----
-
 ## Data Used
 - Landsat 8 satellite imagery (USGS)
 - Pune administrative boundary
-
----
 
 ## Methodology
 - NDVI calculation using NIR and Red bands
 - Land Surface Temperature (LST) derived from thermal band
 - UHI mapping using raster analysis
 - Correlation analysis between NDVI and LST
-
----
 
 ## Results
 
@@ -35,14 +29,10 @@ To analyze the relationship between vegetation cover and land surface temperatur
 ### NDVI vs LST Relationship
 ![Graph](Graph/NDVI_vs_LST.png)
 
----
-
 ## 🧠 Key Findings
 - Areas with low vegetation cover exhibit higher temperatures
 - Vegetation contributes significantly to urban cooling
 - A negative relationship exists between NDVI and LST
-
----
 
 ## 🛠 Tools Used
 - ArcGIS
