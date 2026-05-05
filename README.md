@@ -18,16 +18,16 @@ To analyze the relationship between vegetation cover and land surface temperatur
 ## Results
 
 ### NDVI Map
-![NDVI](Maps/NDVI_Map.png)
+![NDVI](https://github.com/arnav-saxena02/Pune-UHI-Analysis/blob/main/NDVI_Layout.png)
 
 ### LST Map
-![LST](Maps/LST_Map.png)
+![LST](https://github.com/arnav-saxena02/Pune-UHI-Analysis/blob/main/LST_Layout.png)
 
 ### UHI Map
-![UHI](Maps/UHI_Map.png)
+![UHI]((https://github.com/arnav-saxena02/Pune-UHI-Analysis/blob/main/UHI_Layout.png))
 
 ### NDVI vs LST Relationship
-![Graph](Graph/NDVI_vs_LST.png)
+![Graph]((https://github.com/arnav-saxena02/Pune-UHI-Analysis/blob/main/NDVI_vs_LST.png))
 
 ## 🧠 Key Findings
 - Areas with low vegetation cover exhibit higher temperatures
